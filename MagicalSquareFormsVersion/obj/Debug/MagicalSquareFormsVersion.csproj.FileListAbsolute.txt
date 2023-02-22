@@ -1,0 +1,10 @@
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\bin\Debug\MagicalSquareFormsVersion.exe.config
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\bin\Debug\MagicalSquareFormsVersion.exe
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\bin\Debug\MagicalSquareFormsVersion.pdb
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.csproj.AssemblyReference.cache
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.Form1.resources
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.Properties.Resources.resources
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.csproj.GenerateResource.cache
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.csproj.CoreCompileInputs.cache
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.exe
+D:\C#\MagicalSquareFormsVersion\MagicalSquareFormsVersion\obj\Debug\MagicalSquareFormsVersion.pdb
